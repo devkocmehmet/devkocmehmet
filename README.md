@@ -77,7 +77,7 @@ Thank You for taking the time to view my GitHub Profile
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkocmehmet&hide_border=true&layout=compact" align="center" /></div>  
+  
 
 <br/>  
 
